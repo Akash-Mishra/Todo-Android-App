@@ -3,7 +3,7 @@
       xmlns:app="http://schemas.android.com/apk/res-auto"
       android:layout_height="5dp"
       android:layout_width="5dp">
-    <Button
+    <item
         android:id="@+id/action_add_task"
         android:icon="@android:drawable/ic_menu_add"
         android:title="Add Task"
